@@ -1,0 +1,2 @@
+spring.application.name=laptop.yml
+   spring.config.import=optional:configserver:http://localhost:3030
