@@ -1,5 +1,5 @@
+msg: "This Data From Yml GitHub (user)"
 
- msg: "This Data From Yml Git Hub (user)";
 spring:
   datasource:
     url: jdbc:mysql://localhost:3306/config
