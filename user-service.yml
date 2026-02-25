@@ -1,9 +1,6 @@
 
  msg: "This Data From Yml Git Hub (user)";
 spring:
-  application:
-    name: user-service
-
   datasource:
     url: jdbc:mysql://localhost:3306/config
     username: root
